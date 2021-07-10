@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Registro
+comment1.params=n\ c\ d\ cl\ sz\ m
+comment1.target=Registro(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Registro\r\n
+comment2.params=ns
+comment2.target=Registro(int)
+comment3.params=
+comment3.target=void\ Stampa()
+comment4.params=
+comment4.target=void\ Esito()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
